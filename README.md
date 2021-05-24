@@ -5,7 +5,7 @@
 - 😕 I'm not the best in coding, but 🔥 and 💪
 - 🤝 I’m looking to collaborate on ... (i dunno yet)
 - ✈️ I wanna go to somewhere has ❄️ and ⛄
-- 📫 How to reach me hailth4work@gmail.com or my fb.com/realHoangHai
+- 📫 Direct me at hailth4work@gmail.com or my facebook.com/realHoangHai
 
 <!---
 realHoangHai/realHoangHai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
