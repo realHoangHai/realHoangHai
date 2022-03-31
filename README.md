@@ -1,3 +1,4 @@
+### Hi there 👋
 
 <center>
 
@@ -6,10 +7,7 @@
 </center>
 
 
-👋 Hi, My name's @realHoangHai. In Vietnamese, it means the true 👑 of 🌊
+🍀 My name's Hoàng Hải. In Vietnamese, it means the true 👑 of 🌊
 
-👀 I’m interested in beauty 🌸 🌹 🌻 🌼	
+👀 I’m interested in beauty 🌸 🌹 🌻 🌼, and wanna ✈️ to somewhere has ❄️ and ⛄
 
-✈️I wanna go to somewhere has ❄️ and ⛄
-
-📫 Direct me at aflyingpenguin2lth@gmail.com
