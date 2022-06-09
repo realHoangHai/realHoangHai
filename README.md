@@ -1,6 +1,6 @@
 <div align="center">
 
-  *🚀<b>Hi there 👋</b>🚀*
+  *🚀<b>Hi there 👋</b>*
 
 </div>
 
