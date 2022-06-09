@@ -26,5 +26,5 @@ In Vietnamese, it means the true 👑 of 🌊<br/><hr>
 
 ## 📚 gh stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=realHoangHai&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e372a&icon_color=78e2cb&text_color=c9abab&title_color=c68484&count_private=ture" alt="realHoangHai" href="https://github.com/realHoangHai" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=realHoangHai&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=true&bg_color=a83e28&icon_color=f7f2f6&text_color=faec9b&title_color=d9bb25&count_private=true" alt="realHoangHai" href="https://github.com/realHoangHai" /></div>
 
