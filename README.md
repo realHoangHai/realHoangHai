@@ -1,6 +1,6 @@
 <div align="center">
 
-  *🚀<b>Hi there 👋, I'm Hoàng Hải!</b>🚀*
+  *🚀<b>Hi there 👋</b>🚀*
 
 </div>
 
