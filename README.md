@@ -13,7 +13,7 @@
 <div align="center">
 
 🍀 My name's **Hoàng Hải** a.k.a **realHoangHai**.<br/><br/>
-In Vietnamese, it means the true 👑 of 🌊<br/><hr>
+ In <u>Vietnamese</u>, it means the true 👑 of 🌊<br/><hr>
 👀 I’m interested in beauty 🌸 🌹 🌻 🌼, and wanna ✈️ to somewhere has ❄️ and ⛄
 
 </div>
