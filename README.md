@@ -10,6 +10,8 @@
 
 ## 🐶 intro
 
+![](https://komarev.com/ghpvc/?username=realHoangHai&style=flat&color=ff69b4)
+
 <div align="center">
 
 🍀 My name's **Hoàng Hải** a.k.a **realHoangHai**.<br/><br/>
