@@ -28,5 +28,5 @@
 
 ## 📚 gh stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=realHoangHai&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=true&bg_color=a83e28&icon_color=f7f2f6&text_color=faec9b&title_color=d9bb25&count_private=true" alt="realHoangHai" href="https://github.com/realHoangHai" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=realHoangHai&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=true&icon_color=f7f2f6&text_color=faec9b&title_color=d9bb25&count_private=true" alt="realHoangHai" href="https://github.com/realHoangHai" /></div>
 
