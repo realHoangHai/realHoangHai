@@ -12,7 +12,7 @@
 <div align="center">
 
  <img src="./guitar.gif" width="30"> My name's **Hoàng Hải**.<br/><br/>
- In <ins>Vietnamese</ins>, it means the <span style="color: red;">true</span> <img src="./crown.gif" width="30"> of 🌊<br/><hr>
+ <img src="./dog.gif" width="60"> In <ins>Vietnamese</ins>, it means the <span style="color: red;">true</span> <img src="./crown.gif" width="30"> of 🌊<br/><hr>
 👀 I’m interested in beauty <img src="./parrot.gif" width="30">🌸<img src="./parrot.gif" width="30">🌹<img src="./parrot.gif" width="30">🌻<img src="./parrot.gif" width="30">🌼<img src="./parrot.gif" width="30">, and wanna <img src="./duck.gif" width="30"> to somewhere has ❄️ and ⛄
 
 </div>
