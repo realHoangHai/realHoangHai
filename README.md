@@ -1,6 +1,6 @@
 <div align="center">
 
-  *🚀<b>Hi there 👋</b>*
+  *🚀<b>Hi there 👋 <img src="./duck.gif" width="50"> <img src="./dog.gif" width="50"> <img src="./corgi.gif" width="50"></b>*
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-🍀 My name's **Hoàng Hải** a.k.a **realHoangHai**.<br/><br/>
+🍀 My name's **Hoàng Hải**.<br/><br/>
  In <ins>Vietnamese</ins>, it means the <span style="color: red;">true</span> 👑 of 🌊<br/><hr>
 👀 I’m interested in beauty 🌸 🌹 🌻 🌼, and wanna ✈️ to somewhere has ❄️ and ⛄
 
@@ -22,7 +22,7 @@
 
 <div align="center">
  
-<img src="https://typograssy.deno.dev/api?text=Vietnam%20vo%20dich.%20%20%20%20%20%20&l0=fff5f5&l1=e9c5c5&l2=cb7979&l3=daaaaa&l4=7e1a1a&frame=cb7979&speed=100"/>
+<img src="https://typograssy.deno.dev/api?text=real%20Hoang%20Hai.%20%20%20%20%20%20&l0=fff5f5&l1=e9c5c5&l2=cb7979&l3=daaaaa&l4=7e1a1a&frame=cb7979&speed=100"/>
 
 </div>
 
