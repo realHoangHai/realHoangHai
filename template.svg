@@ -53,31 +53,31 @@
       animation: wait 9.2s, msg-4 0.2s 9.2s;
     }
 
+    .typing-5 {
+      opacity: 0;
+      animation: wait 10s, fade-in-out 1.5s 10s;
+    }   
+
     .msg-5 {
       animation: wait 11.7s, msg-5 0.2s 11.7s;
     }
 
-    .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
-    }    
-    
-    .typing-5 {
-      opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
-    }    
-    
     .typing-6 {
       opacity: 0;
       animation: wait 12.5s, fade-in-out 1.5s 12.5s;
     }
 
+    .msg-6 {
+      animation: wait 14.2s, msg-6 0.2s 14.2s;
+    }
+    
     .typing-7 {
       opacity: 0;
       animation: wait 15s, fade-in-out 1.5s 15s;
     }
 
     .msg-7 {
-      animation: wait 16.7s, msg-6 0.2s 14.2s;
+      animation: wait 16.7s, msg-7 0.2s 16.7s;
     }    
     
     @keyframes wait {
@@ -270,8 +270,8 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Hoang Hai</text>
+    <rect width="224" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Hoang Hai 👑 🌊</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,7 +295,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer at VCCorp</text>
+    <text x="15" y="27">Software Engineer at VCCorp  🏢</text>
     <text x="15" y="50">building Real-Distributed RTC System</text>
   </g>
 
@@ -321,7 +321,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Recently, I've been delving deeper into the realm of AI</text>    
-    <text x="15" y="50">exploring its diverse applications</text>
+    <text x="15" y="50">exploring its diverse applications  🤖</text>
   </g>
 
   <!-- typing 4 -->
@@ -344,8 +344,8 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="416" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">and pushing the boundaries of what's possible</text>
+    <rect width="434" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">and pushing the boundaries of what's possible  💪🏻</text>
   </g>
 
   <!-- typing 5 -->
@@ -368,8 +368,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="212" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I love beautifull things</text>    
+    <rect width="302" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I love beautifull things 🏵️🍀🌸🪻</text>    
   </g>
 
   <!-- typing 6 -->
@@ -397,7 +397,7 @@
   </g>
   
 
-  <!-- typing 6 -->
+  <!-- typing 7 -->
   <g transform="translate(10, 336)" class="typing-7">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -416,7 +416,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="448" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="mailto:aflyingpenguin2lth@gmail.com">aflyingpenguin2lth@gmail.com</a> </text>
+    <rect width="472" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">📬 please reach out via <a xlink:href="mailto:aflyingpenguin2lth@gmail.com">aflyingpenguin2lth@gmail.com</a> </text>
   </g>
 </svg>
