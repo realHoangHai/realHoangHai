@@ -1,4 +1,4 @@
-[![](https://github.com/realHoangHai/realHoangHai/blob/main/chat.svg)](https://www.facebook.com/realHoangHai/)
+[![](https://github.com/realHoangHai/realHoangHai/blob/main/chat.svg)](https://twitter.com/realHoangHai)
 
 ![](https://activity-graph.herokuapp.com/graph?username=realHoangHai&theme=react-dark&hide_border=true&area=true)
 
